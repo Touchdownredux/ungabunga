@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Hi Ms. Dunn</title>
+<style>
+  body,
+      html {
+        height: 100%;
+        background-color: black;
+      }
+
+
+.image {
+        background-image: url("https://file.garden/YuYVNOgHkWVkfRda/website%20stuff/on%20bunga.gif");
+        height: 100%;
+        width: 100%;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        filter: blur(20px);
+}
+
+</style>
+
+</head>
+
+<body>
+  <div class="image"></div>
+
+
+
+
+</body>
+</html>
